@@ -1,8 +1,7 @@
 body{background-color: #2F2FA2;}
 
-
-#STEMPageTitleBackground{
-    min-height: 150px;
+#contactPageTitleBackground{
+    min-height: 110px;
     text-align: center;
     margin-top: 2%;
 }
@@ -16,5 +15,10 @@ button{
     border-radius: 15px;
 }
 
-#button-container-STEM{height: 60px;}
-#STEM-slogan{margin-top: 2%;}
+#button-container-network{height: 60px;}
+#index-slogan{margin-top: 2%;}
+.container#title{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}

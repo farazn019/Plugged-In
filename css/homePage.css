@@ -7,12 +7,14 @@ body{background-color: #2F2FA2;}
 }
 
 button{
-    margin-left: 16%;
+    margin-left: 10%;
     margin-top: 1%;
     background-color: aqua;
     color: darkred;
+    min-width: 233px;
+    border-radius: 15px;
 }
 
 #button-container{ height: 60px;}
 
-#slogan{margin-top: 2%;}
+#index-slogan{margin-top: 2%;}

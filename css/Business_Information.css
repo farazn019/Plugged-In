@@ -1,1 +1,20 @@
-#body{background-color: aqua;}
+body{background-color: #2F2FA2;}
+
+#businessPageTitleBackground{
+    min-height: 150px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+button{
+    margin-left: 10%;
+    margin-top: 1%;
+    background-color: aqua;
+    color: darkred;
+    min-width: 233px;
+    border-radius: 15px;
+}
+
+#button-container-business{ height: 60px;}
+
+#business-slogan{margin-top: 2%;}
