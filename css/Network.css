@@ -1,4 +1,4 @@
-body{background-color: #2F2FA2;}
+
 
 
 #networkPageTitleBackground{
@@ -15,6 +15,7 @@ button{
     color: darkred;
     border-radius: 15px;
 }
+
 
 #button-container-network{height: 60px;}
 #index-slogan{margin-top: 2%;}

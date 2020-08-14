@@ -1,20 +1,4 @@
-body{background-color: #2F2FA2;}
 
-#homePageTitleBackground{
-    min-height: 150px;
-    text-align: center;
-    margin-top: 2%;
-}
 
-button{
-    margin-left: 10%;
-    margin-top: 1%;
-    background-color: aqua;
-    color: darkred;
-    min-width: 233px;
-    border-radius: 15px;
-}
 
-#button-container{ height: 60px;}
 
-#index-slogan{margin-top: 2%;}
