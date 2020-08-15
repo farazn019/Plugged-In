@@ -1,6 +1,7 @@
 *{
     margin: 0;
     padding: 0;
+
 }
 
 .moving-Background{
@@ -75,3 +76,13 @@
     }
 }
 
+button{
+    position: relative;
+    min-width: 233px;
+    margin-left: 10%;
+    margin-top: 1%;
+    background-color: aqua;
+    color: darkred;
+    border-radius: 15px;
+    z-index: 1;
+}

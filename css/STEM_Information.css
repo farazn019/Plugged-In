@@ -7,14 +7,5 @@ body{background-color: #2F2FA2;}
     margin-top: 2%;
 }
 
-button{
-    min-width: 233px;
-    margin-left: 10%;
-    margin-top: 1%;
-    background-color: aqua;
-    color: darkred;
-    border-radius: 15px;
-}
-
 #button-container-STEM{height: 60px;}
 #STEM-slogan{margin-top: 2%;}
