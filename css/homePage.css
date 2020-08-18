@@ -1,4 +1,22 @@
 
 
+h1{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    margin-top: 7%;
+    font-weight: bold;
+}
+
+#index-slogan{
+    margin-top: 2%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    text-align: center;
+    color: #01FF70;
+}
+
 
 
