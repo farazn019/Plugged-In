@@ -76,13 +76,18 @@
     }
 }
 
-button{
+.btn{
     position: relative;
-    min-width: 233px;
+    min-width: 250px;
     margin-left: 10%;
     margin-top: 1%;
-    background-color: aqua;
-    color: darkred;
-    border-radius: 15px;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
     z-index: 1;
+}
+
+.btn:hover{
+    background-color: white;
+    color: blue;
 }
