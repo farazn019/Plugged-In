@@ -16,10 +16,32 @@
             <button type="submit" class="btn button-outline border border-light" onclick="location.href='Network.html';">Network With Others</button>
         </div>
 
-        <div id="contactPageTitleBackground" class="jumbotron-fluid">
-            <div class="container">
-                <h1 id="title">Contact Us</h1>
-            </div>
+        <div id="submissionForm">
+            <form id="submission-form">
+                <div class="container">
+                    <h1 id="title">Contact Us</h1>
+                </div>
+                <div class="Name">
+                    <label for="name">Name:</label>
+                    <input id="name" type="text" placeholder="First and Last Name">
+                </div>
+
+                <div class="Email">
+                    <label for="email">Email:</label>
+                    <input id="email" type="text" placeholder="Please enter your email">
+                </div>
+
+                <div class="Message">
+                    <label for="message">Description: </label>
+                    <input id="message" type="text" placeholder="Please enter your message!">
+                </div>
+
+                <script>
+                    function mouseClickEvent() { alert("Thank You For Submitting A Response!\nWe will definitely consider what you have to say.");}
+                </script>
+                <input type="submit" id="submitButton" value="Submit" onmousedown="mouseClickEvent();">
+
+            </form>
         </div>
 
         <ul class="animation">
